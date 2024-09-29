@@ -1,0 +1,34 @@
+body, html {
+    background-color: black;
+    margin: 10px;
+}
+
+nav {
+    margin-top: 20%;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.largoCon, input {
+    text-align: center;
+    color: black;
+}
+
+button {
+    width: 30%;
+    margin: 10px 35%;
+}
+
+article {
+    background-color: white;
+    padding: 23px;
+}
